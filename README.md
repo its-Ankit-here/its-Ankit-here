@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :-
 email :- thakurankit.atr@gmail.com
+- Fiverr -: https://www.fiverr.com/users/ankitrajput09
+- upwork -: https://www.upwork.com/freelancers/~018a747e83f364d048
+- freelancer -: https://www.freelancer.com/u/ankitthakur45
 
 
 <!---
