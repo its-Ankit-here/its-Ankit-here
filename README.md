@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @its-Ankit-here
 - 👀 I’m interested in web development and app development
-- 🌱 I’m currently learning flask and django
+- 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :-
 email :- thakurankit.atr@gmail.com
