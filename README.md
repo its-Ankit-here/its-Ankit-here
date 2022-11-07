@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :-
-email :- thakurankit.atr@gmail.com
+email :- itsankit.contact@gmail.com
 
 
 <!---
