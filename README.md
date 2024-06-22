@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itsAnkit 
-- 👀 I’m interested in web development and app development
+- 👀 I’m interested in development and gaming
 - 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
+- 🔥 Learning New Tech everday 
 - 📫 How to reach me :-
 email :- itsankit.contact@gmail.com
   https://itsankit.xyz
