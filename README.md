@@ -4,7 +4,7 @@
 - 🔥 Learning New Tech everday 
 - 📫 How to reach me :-
 email :- itsankit.contact@gmail.com
-  https://itsankit.xyz
+  https://itsankit.xyz/about/
   
 
 
